@@ -9,7 +9,6 @@
 - 🎓 I've a bachelor's degree in Information Systems from the Federal University of Mato Grosso do Sul
 - 💻 I've always been into website development, especially Front-end
 - 🎨 I also have a passion for UI/UX design, but I still have a lot to learn
-- 💼 I'm currently looking for a job 
 
 
 ## 🔨 Languages and Tools
